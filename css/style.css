@@ -1,0 +1,15 @@
+*{
+   box-sizing: border-box;
+ }
+ div {
+   height:100px;
+   padding:10px 0 0 10px;;
+   margin:8px;
+ }
+ .yellow{
+   background-color: rgb(247,182,23);
+ }
+ .black{
+   background-color: #000;
+   color: #fff;
+ }
